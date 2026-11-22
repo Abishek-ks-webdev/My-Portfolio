@@ -1,0 +1,36 @@
+## **College Lost and Found Management System**
+
+**Project Description:**
+
+The College Lost and Found Management System is a web application developed to help students find their lost belongings within the college campus.
+
+Students can report lost items by entering the item name, description, date, location and uploading a photo. Students who find any item can also upload its details to the website.
+
+Other students can search for lost items and submit a request to claim their belongings. The admin verifies the request and helps return the item to its correct owner.
+
+**Main Features:**
+
+1. Student Registration and Login.
+2. Report Lost Items.
+3. Report Found Items.
+4. Upload Item Photos.
+5. Search and Filter Items.
+6. Claim Request.
+7. Admin Verification.
+8. Item Return Status.
+
+**Technologies Used:**
+
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python Flask
+- Database: MySQL
+
+**Main Objective:**
+
+To provide a simple and centralized platform for reporting, searching and recovering lost belongings in a college campus.
+
+**Example:**
+
+If a student loses an ID card in the library, they can report it on the website. If another student finds the ID card, they can upload its details. The owner can search for it and request to collect it.
+
+note: still working
