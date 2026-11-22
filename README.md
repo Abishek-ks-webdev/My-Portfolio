@@ -1,2 +1,2 @@
 # student-portfolio
-student skills,projects,acheivement and learning activites
+student skills,projects,acheivement,learning activites,internship
